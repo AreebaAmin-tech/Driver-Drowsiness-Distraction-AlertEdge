@@ -114,8 +114,8 @@ Driver-Drowsiness-Distraction-AlertEdge/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AreebaAmin-tech/Driver-Drowsiness-Distraction-AlertEdge.git
-   cd Driver-Drowsiness-Distraction-AlertEdge
+    git clone https://github.com/AreebaAminn/Driver-Drowsiness-Distraction-AlertEdge.git
+    cd Driver-Drowsiness-Distraction-AlertEdge
    ```
 
 2. **Set Up a Virtual Environment**
